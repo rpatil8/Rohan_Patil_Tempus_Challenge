@@ -1,4 +1,4 @@
-# Tempus_Challenge
+# Tempus Bioinformatics Challenge completed by Rohan Patil
 Take-home challenge from Tempus, completed using Perl script
 
 
