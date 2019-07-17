@@ -3,6 +3,7 @@ Take-home challenge from Tempus, completed using Perl script
 
 
 To run this script simply enter following command in the terminal (command-line):
+
 perl parseVCF.pl Challenge_data.vcf 
 
 
