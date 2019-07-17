@@ -9,11 +9,11 @@ To run this script simply enter following command in the terminal (command-line)
 
 Here, 
 
-Perl script: parseVCF.pl
+- Perl script: parseVCF.pl
 
-Input fle: Challenge_data.vcf
+- Input fle: Challenge_data.vcf
 
-Output files: Challenge_data_annotated.vcf and Challenge_data_output_table.tsv
+- Output files: Challenge_data_annotated.vcf and Challenge_data_output_table.tsv
 
 Challenge_data_annotated.vcf contains "NewAnnotations" column with required info (from the challenge) for each variant.
 
